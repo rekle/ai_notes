@@ -1,6 +1,6 @@
 # AI Notes
 
-This repo contains my notes regarding the use of AI.
+This repo contains my notes regarding AI.
 
 ## Open Models
 
@@ -54,7 +54,7 @@ Useful for: Writing Code
 
 Data points used to calculate an AI's response.  Higher numbers mean more complex models.
 
-## Tools
+## Tools / Resources
 
 ### [Osaurus](https://osaurus.ai)
 
@@ -66,6 +66,10 @@ Run downloadable models locally on a Mac without any subscriptions, network use 
 
 ### [OpenClaw](https://openclaw.ai)
 
+### [Tiny Weights](https://tinyweights.dev)
+
+Blog about testing Small Language Models.
+
 Personal AI Assistant
 
 ### Google AI Studio
@@ -74,5 +78,7 @@ Personal AI Assistant
 
 * AI - Artificial Intelligence
 * LLM - Large Language Model
-* ML - Machine Learning
 * MCP - [Model Context Protocol](https://modelcontextprotocol.io/docs/getting-started/intro) - Provides a common way of an AI accessing data from a particular data source.
+* ML - Machine Learning
+* SLM(?) - Small Language Models - Models designed to run in constrained environments (low RAM/CPU), such as mobile devices.
+
