@@ -30,6 +30,12 @@ Vendor: [Ornith AI](https://ornith.online)
 
 ## Paid Models
 
+### ChatGPT
+
+Vendor: [OpenAI](https://openai.com)
+
+Useful for: General purpose LLM.
+
 ### Claude Code
 
 Vendor: [Anthropic](https://www.anthropic.com)
@@ -41,6 +47,19 @@ Useful for: Writing Code
 Vendor: [OpenAI](https://openai.com)
 
 Useful for: Writing Code
+
+### Github Copilot
+
+Vendor: [Microsoft](https://microsoft.com)
+
+Useful for writing code
+
+### Microsoft Copilot
+
+Vendor: [Microsoft](https://microsoft.com)
+
+General Purpose LLM
+
 
 ### OpenClaw
 
